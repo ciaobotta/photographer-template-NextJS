@@ -1,4 +1,4 @@
-.container {
+ .container {
   padding: 0 2rem;
 }
 
@@ -106,6 +106,24 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+/* New Modules */
+
+.imageBorder{
+  border-style: double;
+  border-color: cyan;
+  border-width: 6.9px;
+  /* height: 169px;
+  width: 85px; */
+
+}
+
+.colBorder{
+  /* border-style: dotted; */
+  border-color: rgba(249, 0, 62, 0.783);
+  border-width: 6.969px;
+  
 }
 
 @media (max-width: 600px) {
